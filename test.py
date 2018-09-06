@@ -1,6 +1,6 @@
  coding: utf-8 -*-
 import unittest
-import zg2uni
+import zgtouni
 
 class TestZG2UNI(unittest.TestCase):
     def test_article_one(self):
