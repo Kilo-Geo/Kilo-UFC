@@ -1,4 +1,4 @@
-from flask import Flask , render_template , request , jsonify
+ flask import Flask , render_template , request , jsonify
 import zg2uni
 import uni2zg
 import win2uni
